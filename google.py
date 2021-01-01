@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+#selenium 별도 설치 필요
 import time
 import urllib.request
 
